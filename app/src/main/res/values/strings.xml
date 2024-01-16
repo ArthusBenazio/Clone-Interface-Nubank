@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clone Interface Nubank</string>
+    <string name="name_user">Olá, Arthus</string>
+    <string name="txt_saldo_conta">Conta \n \nR$ 813,95</string>
+    <string name="my_cards">Meus Cartões</string>
+    <string name="cartao_credito">Cartão de crédito</string>
+    <string name="fatura_atual">Fatura atual</string>
+    <string name="txt_saldo">R$ 800,00</string>
+    <string name="parcelar_compras">Parcelar compras</string>
+</resources>
